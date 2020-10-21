@@ -1,8 +1,6 @@
 # Learn to Code HTML & CSS
 
-Working through https://learn.shayhowe.com/html-css/
-
-Completed 5/24/19
+Updated to a more portfolio style.
 
 ## Built With
 

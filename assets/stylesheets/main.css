@@ -102,6 +102,10 @@ body {
   width: 66.66%;
 }
 
+.col-3-3 {
+  width: 100%;
+}
+
 /*
   ========================================
   Clearfix
@@ -127,8 +131,10 @@ body {
 */
 
 .row {
-  background: #fff;
-  padding: 66px 0 44px 0;
+  /* background: #fff; */
+  margin: auto;
+  width: 960px;
+  /* padding: 66px 0 44px 0; */
 }
 
 .row,
@@ -297,10 +303,21 @@ p a {
 
 .primary-nav {
   font-size: 14px;
-  margin-top: 10px;
+  margin-top: 40px;
   font-weight: 400;
   letter-spacing: .5px;
   text-transform: uppercase;
+}
+
+/*
+  ========================================
+  Primary Body
+  ========================================
+*/
+
+.about {
+  color: white;
+  font-size: 18px;
 }
 
 /*
